@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Indira Gandhi National Tribal University",
+    "type": "Central",
+    "location": {
+      "city": "Amarkantak",
+      "state": "Madhya Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Dr. Hari Singh Gour University",
+    "type": "Central",
+    "location": {
+      "city": "Sagar",
+      "state": "Madhya Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Aligarh Muslim University",
+    "type": "Central",
+    "location": {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Assam University",
+    "type": "Central",
+    "location": {
+      "city": "Silchar",
+      "state": "Assam",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Babasaheb Bhimrao Ambedkar University",
+    "type": "Central",
+    "location": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Banaras Hindu University",
+    "type": "Central",
+    "location": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central Sanskrit University",
+    "type": "Central",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Gujarat",
+    "type": "Central",
+    "location": {
+      "city": "Gandhinagar",
+      "state": "Gujarat",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Tamil Nadu",
+    "type": "Central",
+    "location": {
+      "city": "Thiruvarur",
+      "state": "Tamil Nadu",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Pondicherry University",
+    "type": "Central",
+    "location": {
+      "city": "Puducherry",
+      "state": "Puducherry",
+      "country": "India"
+    }
+  },
+  {
+    "name": "National Sports University",
+    "type": "Central",
+    "location": {
+      "city": "Imphal",
+      "state": "Manipur",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Tezpur University",
+    "type": "Central",
+    "location": {
+      "city": "Tezpur",
+      "state": "Assam",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Rajiv Gandhi University",
+    "type": "Central",
+    "location": {
+      "city": "Itanagar",
+      "state": "Arunachal Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Andhra Pradesh",
+    "type": "Central",
+    "location": {
+      "city": "Anantapuram",
+      "state": "Andhra Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central Tribal University of Andhra Pradesh",
+    "type": "Central",
+    "location": {
+      "city": "Vizianagaram",
+      "state": "Andhra Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Nalanda University",
+    "type": "Central",
+    "location": {
+      "city": "Rajgir",
+      "state": "Bihar",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Mahatma Gandhi Central University",
+    "type": "Central",
+    "location": {
+      "city": "Motihari",
+      "state": "Bihar",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Dr. Rajendra Prasad Central Agricultural University",
+    "type": "Central",
+    "location": {
+      "city": "Samastipur",
+      "state": "Bihar",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Guru Ghasidas Vishwavidyalaya",
+    "type": "Central",
+    "location": {
+      "city": "Bilaspur",
+      "state": "Chhattisgarh",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Indira Gandhi National Open University",
+    "type": "Central",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "type": "Central",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "type": "Central",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  },
+  {
+    "name": "South Asian University",
+    "type": "Central",
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Kashmir",
+    "type": "Central",
+    "location": {
+      "city": "Srinagar",
+      "state": "Jammu & Kashmir",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Jammu",
+    "type": "Central",
+    "location": {
+      "city": "Jammu",
+      "state": "Jammu & Kashmir",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Jharkhand",
+    "type": "Central",
+    "location": {
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Karnataka",
+    "type": "Central",
+    "location": {
+      "city": "Kalaburagi",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Kerala",
+    "type": "Central",
+    "location": {
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya",
+    "type": "Central",
+    "location": {
+      "city": "Wardha",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Manipur University",
+    "type": "Central",
+    "location": {
+      "city": "Imphal",
+      "state": "Manipur",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Mizoram University",
+    "type": "Central",
+    "location": {
+      "city": "Aizawl",
+      "state": "Mizoram",
+      "country": "India"
+    }
+  },
+  {
+    "name": "North Eastern Hill University",
+    "type": "Central",
+    "location": {
+      "city": "Shillong",
+      "state": "Meghalaya",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Nagaland University",
+    "type": "Central",
+    "location": {
+      "city": "Lumami",
+      "state": "Nagaland",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Odisha",
+    "type": "Central",
+    "location": {
+      "city": "Koraput",
+      "state": "Odisha",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Tripura University",
+    "type": "Central",
+    "location": {
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Rajasthan",
+    "type": "Central",
+    "location": {
+      "city": "Ajmer",
+      "state": "Rajasthan",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Central University of Punjab",
+    "type": "Central",
+    "location": {
+      "city": "Bathinda",
+      "state": "Punjab",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Sikkim University",
+    "type": "Central",
+    "location": {
+      "city": "Gangtok",
+      "state": "Sikkim",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Visva-Bharati University",
+    "type": "Central",
+    "location": {
+      "city": "Santiniketan",
+      "state": "West Bengal",
+      "country": "India"
+    }
+  },
+  {
+    "name": "University of Calcutta",
+    "type": "State",
+    "location": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India"
+    }
+  }
+]
